@@ -1,2 +1,128 @@
-# programacion
+# sistemas operativos
 este es una pagina web 
+
+<!doctype html> 
+
+<html lang="es">
+<head>
+    <script>
+        alert("Bienvenidos a mi pagina web");
+    </script>
+    <meta charset="utf-8"/>
+    <title>inicio</title>
+    <link rel="stylesheet" href="estilos.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+    <link rel="shortcut icon" href="gato/png" type="image/png">
+</head>
+<link rel="shortcut icon" href="gato.png" type="image/png">
+<body>
+</a>
+    <div id="principio">
+        <nav>
+            <header>
+                <ul>
+    <li><a href="inicio.html">inicio</a></li>
+    <li><a href="linux.html">linux</a></li>
+    <li><a href="Mac OS.html">Mac OS</a></li>
+    <li><a href="windows.html">windows</a></li>
+            </ul>
+        </header>
+        </nav>
+  <h1>sistema operativo</h1>
+  <h2>¿Qué es un Sistema Operativo?</h2>
+  <p>El sistema operativo es el programa (o software) más importante de un ordenador. Para que funcionen los otros programas, cada ordenador de uso general debe tener un sistema operativo. Los sistemas operativos realizan tareas básicas, tales como reconocimiento de la conexión del teclado, enviar la información a la pantalla, no perder de vista archivos y directorios en el disco, y controlar los dispositivos periféricos tales como impresoras, escáner, etc.
+<br>
+    En sistemas grandes, el sistema operativo tiene incluso mayor responsabilidad y poder, es como un policía de tráfico, se asegura de que los programas y usuarios que están funcionando al mismo tiempo no interfieran entre ellos. El sistema operativo también es responsable de la seguridad, asegurándose de que los usuarios no autorizados no tengan acceso al sistema.</p>
+<center>   
+    <img src="https://www.masadelante.com/images/sistema-operativo.png" alt="">
+</center> 
+    <h2>Clasificación de los Sistemas Operativos</h2>
+    <p>Los sistemas operativos pueden ser clasificados de la siguiente forma: <br>
+
+        <li> Multiusuario: Permite que dos o más usuarios utilicen sus programas al mismo tiempo. Algunos sistemas operativos permiten a centenares o millares de usuarios al mismo tiempo.</li> 
+        <li> Multiprocesador: soporta el abrir un mismo programa en más de una CPU. </li> 
+        <li> Multitarea: Permite que varios programas se ejecuten al mismo tiempo. </li>
+        <li> Multitramo: Permite que diversas partes de un solo programa funcionen al mismo tiempo. </li>
+        <li> Tiempo Real: Responde a las entradas inmediatamente. Los sistemas operativos como DOS y UNIX, no funcionan en tiempo real. </li>
+    </p>
+    <h2>Sistemas operativos para Desktop o Laptop</h2>
+    <p>
+<li> Windows 7/8/10</li>
+<li> OSX (MacOS)</li>
+<li> Linux Ubuntu</li>
+<li> Linux Fedora</li>
+<li> Linux CentOS</li>
+<li> Chrome OS</li>
+<li> Linux Red hat</li>
+<li> Linux SUSE</li>
+<li> Solaris</li>
+<li> Open Solaris</li>
+<li> Unix</li>
+<li> Linux Debian</li>
+    </p>
+    <center>
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.-Nhca1gLj3tAhCHj5AL_XQHaEK%26pid%3DApi&f=1" alt="">
+</center>
+<button><a href="#principio"><img src="https://www.flaticon.es/svg/vstatic/svg/890/890755.svg?token=exp=1614051552~hmac=ca5a916924b08ab98264cf70309489d5" id="botonArriba"></a></button>
+</body>
+</html>
+<html lang="es">
+<head>
+        <meta lang="es">
+        <title>windows</title>
+        <link rel="stylesheet" href="estilos.css">
+    </head>
+        <body>
+            <div id="principio">
+            <nav>
+                <header>
+                    <ul>
+        <li><a href="inicio.html">inicio</a></li>
+        <li><a href="linux.html">linux</a></li>
+        <li><a href="Mac OS.html">Mac OS</a></li>
+        <li><a href="windows.html">windows</a></li>
+                </ul>
+            </header>
+            </nav>
+           
+            <h1>Windows</h1>
+            <p>Originalmente, Microsoft se llamó "Traf-O-Data" en 1972, después "Micro-soft" en noviembre de 1975 y finalmente el 26 de noviembre de 1976 recibió el nombre "Microsoft".</p>
+            <p>Microsoft ingresó al mercado en agosto de 1981 al lanzar la versión 1.0 del sistema operativo Microsoft DOS (MS-DOS), un sistema operativo con una línea de comando de 16 bits.</p>
+            <p>La primera versión de Microsoft Windows (Microsoft Windows 1.0) salió a la venta en noviembre de 1985. Contaba con una interfaz gráfica del usuario, inspirada en la interfaz del usuario de los equipos Apple de aquel entonces. Windows 1.0 no tuvo éxito con el público y Microsoft Windows 2.0, lanzada el 9 de diciembre de 1987, no corrió con mejor suerte.</p>
+            <p>Fue el 22 de mayo de 1990 cuando Microsoft Windows se volvió un éxito, con la versión Windows 3.0, después la versión Windows 3.1 en 1992 y finalmente Microsoft Windows for Workgroups, posteriormente llamada Windows 3.11, la cual incluía capacidades de red. Windows 3.1 no se puede considerar un sistema operativo completamente individual ya que solamente era una interfaz gráfica del usuario que se ejecutaba sobre MS-DOS.</p>
+            <p>El 24 de agosto de 1995, Microsoft lanzó el sistema operativo Microsoft Windows 95. Con Windows 95 Microsoft quiso transferir algunas capacidades de MS-DOS a Windows. Sin embargo, esta nueva versión se basaba demasiado en el DOS de 16 bits y todavía tenía las limitaciones del sistema de archivos FAT16, por lo que no era posible usar nombres largos para archivos.</p>
+            <p>Después de algunas revisiones menores de Windows 95, denominadas Windows 95A OSR1, Windows 95B OSR2, Windows 95B OSR2.1 y Windows 95C OSR2.5, Microsoft lanzó la siguiente versión de Windows el 25 de junio de 1998: Windows 98. En un principio, Windows 98 admitía en forma nativa otras opciones además de las de MS-DOS, pero todavía se basaba en éste. Además, Windows 98 contaba con poco manejo de memoria cuando se ejecutaban múltiples aplicaciones. Esto podía ocasionar fallas en el sistema. El 17 de febrero de 2000 salió al mercado una segunda edición de Windows 98. Se llamó Windows 98 SE ("Second Edition" [Segunda edición]).</p>
+            <p>El 14 de septiembre de 2000, Microsoft lanzó Windows Me (por Millennium Edition [Edición del milenio]), también conocida como Windows Millenium. Windows Millenium se basó en gran parte en Windows 98 (y por lo tanto, en MS-DOS), aunque añadió capacidades adicionales de multimedia y de software. Asimismo, Windows Millennium incluía un mecanismo de restauración del sistema para volver a un estado anterior en caso de caída del sistema.</p>
+            <p>Al mismo tiempo que lanzaba estas versiones, Microsoft había estado vendiendo (desde 1992) un sistema operativo completo de 32 bits (que no se basaba en MS-DOS) para uso profesional, en una época en la que en las compañías se utilizaban principalmente sistemas centrales. Se llamaba Windows NT (por Windows "New Technology" [Nueva tecnología]). Windows NT no era una nueva versión de Windows 95 ni una mejora de éste, sino un sistema operativo totalmente diferente.</p>
+            <p>El 24 de mayo de 1993, se lanzó la primera versión de Windows NT. Se la denominó Windows NT 3.1. A ésta le siguió Windows NT 3.5 en septiembre de 1994 y Windows 3.51 en junio de 1995. Con Windows NT 4.0, que salió a la venta el 24 de agosto de 1996, Windows NT se volvió un verdadero éxito.</p>
+            <p>En julio de 1998, Microsoft lanzó Windows NT 4.0 TSE (Terminal Server Emulation). Éste fue el primer sistema de Windows que permitió que los terminales se pudieran conectar a un servidor, es decir, usar clientes ligeros para abrir una sesión en el servidor.</p>
+            <p>El 17 de febrero de 2000, a la siguiente versión de NT 4.0 se le dio el nombre de Windows 2000 (en lugar de Windows NT 5.0) para resaltar la unificación de los sistemas "NT" y "Windows 9x". Windows 2000 es un sistema entero de 32 bits con características de Windows NT, un administrador de tareas mejorado y una compatibilidad total con periféricos USB y FireWire.</p>
+            <p>Después, el 25 de octubre de 2001, llegó al mercado Windows XP. Esta versión fue una fusión de los sistemas operativos anteriores.</p>
+            <p>Finalmente, el 24 de abril de 2003, Microsoft lanzó un sistema operativo para servidores: Windows Server 2003.</p>
+<center>
+            <img src="https://img-17.ccm2.net/kbIpi6msCOhGdpR_GAtMLI-OOyc=/500x/98e9d039822746e8b8e89f689084a377/ccm-encyclopedia/Historia_de_Windows.jpg" alt="">
+        </center>
+            <p>Actualmente, el sistema operativo que más se encuentra en los ordenadores del mundo es Windows; uno que se ha mantenido a lo largo del tiempo y que nos ha entregado varias actualizaciones importantes como Windows 10. Es un sistema muy completo a nivel de funcionalidad y estética, pero, cuáles son las ventajas y desventajas de Windows.
+
+                Porque sí, tiene todo lo necesario para brindar una experiencia óptima en todo sentido siempre y cuando tengas un PC que cumpla con los requisitos mínimos, pero más allá de todo ello cuáles son las ventajas y desventajas del sistema operativo Microsoft Windows que tan bien posicionado se encuentra en el mercado actualmente. </p>
+                <h2>Ventajas</h2>
+                <p>1.Una de las ventajas de Windows es que todo el mundo puede usarlo. Sí, cualquier persona que haya tenido una educación formal en el aspecto de informática básica podrás dominar este sistema de pies a cabeza sin problema alguno, ya que no es confuso y tiene una interfaz intuitiva y cuidado. Así que en este sentido muy bien por Microsoft que siempre nos ofrece la facilidad.</p>
+                <p>2.Windows como sistema de escritorio tiene una forma de estar presente en el mercado y es de manera privada. Por tanto, para adquirirlo tienes que pagar un único monto por la licencia de cualquiera de las versiones actuales de Windows 10. Esto ayuda en gran manera a que se acabe poco a poco la piratería que tanto nos afecta hoy en día debido a usuarios que modifican códigos para ofrecer software de pago gratuito. Así que, si planeas pagar una versión de Windows estás tomando una buena decisión en pro de tu seguridad.</p>
+                <p>3.¿Te gusta jugar? Si es así, Windows es el sistema operativo para ti, ya que los fabricantes de juegos piensan mucho en este sistema y lanzan versiones de sus juegos para él. De hecho, es algo que siempre ha sucedido desde hace mucho tiempo, pero que, hoy en día marca más importancia debido a que Windows 10 saca todo el rendimiento y es perfecto para jugar. Sin duda alguna, es una de las mejores ventajas de Windows.</p>
+                <p>4.Compatibilidad, compatibilidad y más compatibilidad. Sí, así es Windows como sistema operativo, es compatible con cualquier programa o juego del mercado. Todos los programas que busques casualmente verás que estarán disponible para descargar e instalar en Windows; de verdad que en este sentido la forma acertada de trabajo entre Micrososft y desarrolladores ha sido bastante buena.</p>
+                <p>5.También mencionaré la compatibilidad con cualquier hardware de Windows. Realmente es un apartado que quiero destacar, ya que, podrás poner la configuración que quieras en tu ordenador y Windows trabajará de manera fluida y compatible siempre, pero siempre. Así que en este sentido pasa lo mismo que con los programas y juegos.</p>
+                <p>6.Es un sistema operativo bien optimizado y preparado para trabajar de buena manera con las redes. Créeme, es muy rápido y estable, la experiencia que tendrás con él será muy buena casi siempre; esto dependerá del hardware, pero hasta en un equipo con 2GB de memoria RAM corre Windows 10 y lo digo por experiencia propia.</p>
+                <h2>Desventajas</h2>
+                <p>1.Una de las desventajas de Windows es que es propenso, siempre, a recibir malwares todo el tiempo. De hecho, todos los días se lanzan más de un millón de estos ataques a ordenadores Windows, es algo presente y que por suerte Microsoft ya ha trabajado y mejorado, pero ahí siguen estando. Eso sí, si tienes un buen antivirus y tu versión de Windows siempre actualizado no tendrás problemas con estos ataques.</p>
+                <p>2.Windows por defecto es un sistema que desde siempre consume muchos, pero muchos recursos del hardware, como memoria RAM y procesos internos del SoC. Por tanto, si tienes un ordenador de gama baja es normal que lo notes demasiado lento en algunas ocasiones, pero si tienes un ordenador de gama media y alta no notarás mucho este problema, que, eso sí, con las últimas versiones no se nota tanto; así que bien Microsoft.</p>
+                <p>3.Si quieres tener Windows y todos sus servicios como Microsoft Office tendrás que pagar mucho dinero en un inicio y la renovación de éste último cada año. Por tanto, es un gasto grande si lo comparamos con Linux, que es GRATIS. Pero, además, es que depende de la versión que compres Profesional, Home y otras, todas tienen precios diferentes siendo la Pro la más cara de todas. ¿Vale la pena pagar tanto? Pues depende de que tanto hagas con tu ordenador con Windows.</p>
+                <button><a href="#principio"><img src="https://www.flaticon.es/svg/vstatic/svg/890/890755.svg?token=exp=1614051552~hmac=ca5a916924b08ab98264cf70309489d5" id="botonArriba"></a></button>
+<center>
+    <h2>Video</h2>
+    
+    <a href="https://youtu.be/anlNOY4V0jQ">¿Es Windows 10 malo?</a> <br>
+    <br>
+    <a href="https://youtu.be/O1kM3TkALG8">historia</a>
+</center>
+            </body>
+</html>
